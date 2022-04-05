@@ -1,0 +1,15 @@
+C:\Coding\Projects\getAcademyModul3\CSGO\CSGO\bin\Debug\net6.0\CSGO.exe
+C:\Coding\Projects\getAcademyModul3\CSGO\CSGO\bin\Debug\net6.0\CSGO.deps.json
+C:\Coding\Projects\getAcademyModul3\CSGO\CSGO\bin\Debug\net6.0\CSGO.runtimeconfig.json
+C:\Coding\Projects\getAcademyModul3\CSGO\CSGO\bin\Debug\net6.0\CSGO.dll
+C:\Coding\Projects\getAcademyModul3\CSGO\CSGO\bin\Debug\net6.0\CSGO.pdb
+C:\Coding\Projects\getAcademyModul3\CSGO\CSGO\obj\Debug\net6.0\CSGO.csproj.AssemblyReference.cache
+C:\Coding\Projects\getAcademyModul3\CSGO\CSGO\obj\Debug\net6.0\CSGO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Projects\getAcademyModul3\CSGO\CSGO\obj\Debug\net6.0\CSGO.AssemblyInfoInputs.cache
+C:\Coding\Projects\getAcademyModul3\CSGO\CSGO\obj\Debug\net6.0\CSGO.AssemblyInfo.cs
+C:\Coding\Projects\getAcademyModul3\CSGO\CSGO\obj\Debug\net6.0\CSGO.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\getAcademyModul3\CSGO\CSGO\obj\Debug\net6.0\CSGO.dll
+C:\Coding\Projects\getAcademyModul3\CSGO\CSGO\obj\Debug\net6.0\refint\CSGO.dll
+C:\Coding\Projects\getAcademyModul3\CSGO\CSGO\obj\Debug\net6.0\CSGO.pdb
+C:\Coding\Projects\getAcademyModul3\CSGO\CSGO\obj\Debug\net6.0\CSGO.genruntimeconfig.cache
+C:\Coding\Projects\getAcademyModul3\CSGO\CSGO\obj\Debug\net6.0\ref\CSGO.dll
